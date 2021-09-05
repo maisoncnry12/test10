@@ -68,7 +68,9 @@ footer {
   background-color: #aaaaaa;
 }
 
+
 @media screen and (max-width: 768px) {
+
   header {
     width: 100%;
   }
@@ -85,4 +87,5 @@ footer {
 
   .step-box:last-child {
     margin-right: auto;
+  }
 }
